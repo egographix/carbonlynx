@@ -1,0 +1,656 @@
+/*Telerik RadGrid SkyBlue Skin*/
+
+/*global*/
+
+.RadGrid_SkyBlue
+{
+	background:#fff;
+	color:#333;
+}
+
+.RadGrid_SkyBlue,
+.RadGrid_SkyBlue .rgMasterTable,
+.RadGrid_SkyBlue .rgDetailTable,
+.RadGrid_SkyBlue .rgGroupPanel table,
+.RadGrid_SkyBlue .rgCommandRow table,
+.RadGrid_SkyBlue .rgEditForm table,
+.GridToolTip_SkyBlue
+{
+	font:11px arial,sans-serif;
+}
+
+.RadGrid_SkyBlue,
+.RadGrid_SkyBlue .rgDetailTable
+{
+	border:1px solid #52a0e2;
+}
+
+.RadGrid_SkyBlue .rgMasterTable,
+.RadGrid_SkyBlue .rgDetailTable
+{
+	border-collapse:separate;
+}
+
+.RadGrid_SkyBlue .rgRow td,
+.RadGrid_SkyBlue .rgAltRow td,
+.RadGrid_SkyBlue .rgEditRow td,
+.RadGrid_SkyBlue .rgFooter td,
+.RadGrid_SkyBlue .rgFilterRow td,
+.RadGrid_SkyBlue .rgHeader,
+.RadGrid_SkyBlue th.rgResizeCol,
+.RadGrid_SkyBlue .rgGroupHeader td
+{
+	padding-left:4px;
+	padding-right:4px;
+}
+
+.RadGrid_SkyBlue .rgAdd,
+.RadGrid_SkyBlue .rgRefresh,
+.RadGrid_SkyBlue .rgEdit,
+.RadGrid_SkyBlue .rgDel,
+.RadGrid_SkyBlue .rgFilter,
+.RadGrid_SkyBlue .rgPagePrev,
+.RadGrid_SkyBlue .rgPageNext,
+.RadGrid_SkyBlue .rgPageFirst,
+.RadGrid_SkyBlue .rgPageLast,
+.RadGrid_SkyBlue .rgExpand,
+.RadGrid_SkyBlue .rgCollapse,
+.RadGrid_SkyBlue .rgSortAsc,
+.RadGrid_SkyBlue .rgSortDesc,
+.RadGrid_SkyBlue .rgUpdate,
+.RadGrid_SkyBlue .rgCancel
+{
+	width:16px;
+	height:16px;
+	border:0;
+	padding:0;
+	background-color:transparent;
+	background-image:url('Grid/sprite.gif');
+	background-repeat:no-repeat;
+	vertical-align:middle;
+	font-size:1px;
+	cursor:pointer;
+}
+
+.RadGrid_SkyBlue .rgGroupItem input,
+.RadGrid_SkyBlue .rgCommandRow img,
+.RadGrid_SkyBlue .rgHeader input,
+.RadGrid_SkyBlue .rgFilterRow img,
+.RadGrid_SkyBlue .rgPager img
+{
+	vertical-align:middle;
+}
+
+/*header*/
+
+.RadGrid_SkyBlue .rgHeaderDiv
+{
+	background:#fff url('Grid/sprite.gif') 0 -1316px repeat-x;
+}
+
+.RadGrid_SkyBlue .rgHeader,
+.RadGrid_SkyBlue th.rgResizeCol
+{
+	border-bottom:1px solid #52a0e2;
+	padding-top:9px;
+	padding-bottom:8px;
+	background:#d4f3ff;
+	font-size:13px;
+	text-align:left;
+}
+
+.RadGrid_SkyBlue .rgHeader,
+.RadGrid_SkyBlue .rgHeader a
+{
+	color:#136fb6;
+	text-decoration:none;
+}
+
+/*rows*/
+
+.RadGrid_SkyBlue .rgAltRow
+{
+	background:#e2f7ff;
+}
+
+.RadGrid_SkyBlue .rgRow td,
+.RadGrid_SkyBlue .rgAltRow td,
+.RadGrid_SkyBlue .rgEditRow td,
+.RadGrid_SkyBlue .rgFooter td
+{
+	padding-top:3px;
+	padding-bottom:4px;
+}
+
+.RadGrid_SkyBlue .rgRow a,
+.RadGrid_SkyBlue .rgAltRow a,
+.RadGrid_SkyBlue .rgEditRow a,
+.RadGrid_SkyBlue .rgFooter a,
+.RadGrid_SkyBlue .rgEditForm a
+{
+	color:#333;
+}
+
+.RadGrid_SkyBlue .rgRow td
+{
+	border-top:1px solid #fff;
+	border-bottom:1px solid #fff;
+}
+
+.RadGrid_SkyBlue .rgAltRow td
+{
+	border-top:1px solid #e2f7ff;
+	border-bottom:1px solid #e2f7ff;
+}
+
+.RadGrid_SkyBlue .rgSelectedRow
+{
+	background:#99db4c;
+}
+
+.RadGrid_SkyBlue .rgSelectedRow,
+.RadGrid_SkyBlue .rgActiveRow,
+.RadGrid_SkyBlue .rgHoveredRow,
+.RadGrid_SkyBlue .rgEditRow,
+.RadGrid_SkyBlue .rgSelectedRow a,
+.RadGrid_SkyBlue .rgActiveRow a,
+.RadGrid_SkyBlue .rgHoveredRow a,
+.RadGrid_SkyBlue .rgEditRow a
+{
+	color:#208600;
+}
+
+.RadGrid_SkyBlue .rgActiveRow
+{
+	background:#b1e96f;
+}
+
+.RadGrid_SkyBlue .rgHoveredRow,
+.RadGrid_SkyBlue .rgEditRow
+{
+	background:#c4f190;
+}
+
+.RadGrid_SkyBlue .rgActiveRow td,
+.RadGrid_SkyBlue .rgHoveredRow td,
+.RadGrid_SkyBlue .rgEditRow td
+{
+	border-top:1px solid #77c34d;
+	border-bottom:1px solid #77c34d;
+}
+
+.RadGrid_SkyBlue .rgSelectedRow td
+{
+	border-top:1px solid #51af1e;
+	border-bottom:1px solid #51af1e;
+}
+
+/*footer*/
+
+.RadGrid_SkyBlue .rgFooter
+{
+	color:#000;
+}
+
+.RadGrid_SkyBlue .rgFooter td
+{
+	border-top:1px solid #b5d3ec;
+}
+
+/*status*/
+
+.RadGrid_SkyBlue .rgPager .rgStatus
+{
+	width:35px;
+	border-top:1px solid #b5d3ec;
+	border-right:1px solid #b5d3ec;
+	padding:3px 0 2px;
+}
+
+.RadGrid_SkyBlue .rgPager .rgStatus div
+{
+	width:24px;
+	height:24px;
+	overflow:hidden;
+	border:0;
+	margin:0 auto;
+	padding:0;
+	background:transparent;
+	text-indent:-2222px;
+}
+
+/*paging*/
+
+.RadGrid_SkyBlue .rgPager
+{
+	background:#e4f8ff;
+	color:#727b82;
+	line-height:20px;
+}
+
+.RadGrid_SkyBlue .rgPager td
+{
+	padding:0;
+}
+
+.RadGrid_SkyBlue .rgPager .rgPagerCell
+{
+	border-top:1px solid #b5d3ec;
+}
+
+.RadGrid_SkyBlue .rgPagePrev
+{
+	background-position:5px -988px;
+}
+
+.RadGrid_SkyBlue .rgPageNext
+{
+	background-position:-21px -988px;
+}
+
+.RadGrid_SkyBlue .rgPageFirst
+{
+	background-position:4px -956px;
+}
+
+.RadGrid_SkyBlue .rgPageLast
+{
+	background-position:-20px -956px;
+}
+
+.RadGrid_SkyBlue .rgWrap
+{
+	float:left;
+	padding:0 10px;
+	line-height:26px;
+	white-space:nowrap;
+}
+
+.RadGrid_SkyBlue .rgArrPart1
+{
+	padding-right:0;
+	line-height:22px;
+}
+
+.RadGrid_SkyBlue .rgArrPart2
+{
+	padding-left:0;
+	line-height:22px;
+}
+
+.RadGrid_SkyBlue .rgInfoPart
+{
+	float:right;
+}
+
+.RadGrid_SkyBlue .rgInfoPart strong
+{
+	font-weight:normal;
+}
+
+.RadGrid_SkyBlue .rgPageFirst,
+.RadGrid_SkyBlue .rgPagePrev,
+.RadGrid_SkyBlue .rgPageNext,
+.RadGrid_SkyBlue .rgPageLast
+{
+	height:24px;
+}
+
+.RadGrid_SkyBlue .rgPagerButton
+{
+	height:22px;
+	border:1px solid #7cb5e6;
+	margin:0 14px 0 0;
+	padding:0 4px 2px;
+	background:#d4f3ff;
+	color:#525252;
+	font:12px/12px arial,sans-serif;
+	vertical-align:middle;
+	cursor:pointer;
+}
+
+.RadGrid_SkyBlue .rgNumPart
+{
+	padding:2px 0;
+}
+
+.RadGrid_SkyBlue .NumericPages .rgNumPart
+{
+	padding:2px 10px;
+}
+
+.RadGrid_SkyBlue .rgNumPart a
+{
+	float:left;
+	line-height:22px;
+	margin:0;
+	padding:0 5px 0 0;
+	color:#666;
+	text-decoration:none;
+}
+
+.RadGrid_SkyBlue .rgNumPart span
+{
+	float:left;
+	padding:0 0 0 5px;
+}
+
+.RadGrid_SkyBlue .rgNumPart a:hover
+{
+	color:#000;
+	text-decoration:underline;
+}
+
+.RadGrid_SkyBlue .rgNumPart a:hover span
+{
+	cursor:pointer;
+}
+
+.RadGrid_SkyBlue .rgNumPart a.rgCurrentPage,
+.RadGrid_SkyBlue .rgNumPart a.rgCurrentPage:hover
+{
+	cursor:default;
+	text-decoration:none;
+	font-weight:bold;
+	color:#000;
+}
+
+.RadGrid_SkyBlue .rgNumPart a.rgCurrentPage span,
+.RadGrid_SkyBlue .rgNumPart a.rgCurrentPage:hover span
+{
+	cursor:default;
+}
+
+.RadGrid_SkyBlue .NextPrevNumericAndAdvanced .rgAdvPart
+{
+	float:none;
+	text-align:center;
+}
+
+.RadGrid_SkyBlue .rgPager .RadSlider
+{
+	float:left;
+	margin:2px 10px 0 0;
+}
+
+.RadGrid_SkyBlue .rgPagerLabel,
+.RadGrid_SkyBlue .rgPager .RadComboBox,
+.RadGrid_SkyBlue .rgPager .RadInput_SkyBlue
+{
+	margin:0 4px 0 0;
+	vertical-align:middle;
+}
+
+.RadGrid_SkyBlue .rgPager .RadComboBox
+{
+	margin-top:-1px;
+}
+*+html .RadGrid_SkyBlue .rgPager .RadComboBox{margin-top:-2px;}
+* html .RadGrid_SkyBlue .rgPager .RadComboBox{margin-top:-2px;}
+
+.RadGrid_SkyBlue .rgPagerTextBox
+{
+	text-align:center;
+}
+
+/*sorting, reordering*/
+
+.RadGrid_SkyBlue .rgHeader .rgSortAsc
+{
+	background-position:-18px -929px;
+	height:12px;
+}
+
+.RadGrid_SkyBlue .rgHeader .rgSortDesc
+{
+	background-position:3px -929px;
+	height:12px;
+}
+
+.GridReorderTop_SkyBlue,
+.GridReorderBottom_SkyBlue
+{
+	width:11px !important;
+	height:11px !important;
+	margin-left:-5px;
+	background:url('Grid/sprite.gif') 0 -900px no-repeat;
+}
+
+.GridReorderBottom_SkyBlue
+{
+	background-position:-21px -900px;
+}
+
+/*filtering*/
+
+.RadGrid_SkyBlue .rgFilterRow
+{
+	background:#fff;
+}
+
+.RadGrid_SkyBlue .rgFilterRow td
+{
+	border-bottom:1px solid #b5d3ec;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.RadGrid_SkyBlue .rgFilter
+{
+	background-position:2px -1024px;
+}
+
+.RadGrid_SkyBlue .rgFilterBox
+{
+	border:1px solid #667d90;
+	font:12px arial,sans-serif;
+	color:#333;
+	vertical-align:middle;
+}
+
+/*grouping*/
+
+.RadGrid_SkyBlue .rgGroupPanel
+{
+	border-bottom:1px solid #04569c;
+	background:#52a0e2;
+	color:#fff;
+}
+
+.RadGrid_SkyBlue .rgGroupPanel .rgSortAsc
+{
+	background-position:-21px -862px;
+}
+
+.RadGrid_SkyBlue .rgGroupPanel .rgSortDesc
+{
+	background-position:4px -861px;
+}
+
+.RadGrid_SkyBlue .rgGroupPanel td
+{
+	border:0;
+	padding:6px 5px;
+}
+
+.RadGrid_SkyBlue .rgGroupPanel td td
+{
+	padding:0;
+}
+
+.RadGrid_SkyBlue .rgGroupHeader
+{
+	color:#3a9f09;
+	font-size:12px;
+}
+
+.RadGrid_SkyBlue .rgGroupHeader td
+{
+	border-bottom:1px solid #b5d3ec;
+	padding-top:5px;
+	padding-bottom:3px;
+}
+
+.RadGrid_SkyBlue .rgExpand
+{
+	background-position:5px -1057px;
+}
+
+.RadGrid_SkyBlue .rgCollapse
+{
+	background-position:3px -1088px;
+}
+
+.RadGrid_SkyBlue .rgGroupHeader td div
+{
+	top:-0.6em;
+}
+
+.RadGrid_SkyBlue .rgGroupHeader td div div
+{
+	top:0;
+}
+
+/*editing*/
+
+.RadGrid_SkyBlue .rgEditForm
+{
+	border-bottom:1px solid #b5d3ec;
+}
+
+.RadGrid_SkyBlue .rgUpdate
+{
+	background-position:3px -1249px;
+}
+
+.RadGrid_SkyBlue .rgCancel
+{
+	background-position:3px -1280px;
+}
+
+/*hierarchy*/
+
+.RadGrid_SkyBlue .rgDetailTable
+{
+	border-right:0;
+}
+
+/*command row*/
+
+.RadGrid_SkyBlue .rgCommandRow
+{
+	background:#52a0e2;
+	color:#fff;
+}
+
+.RadGrid_SkyBlue .rgCommandRow td
+{
+	border:0;
+	padding:0;
+}
+
+.RadGrid_SkyBlue thead .rgCommandRow td
+{
+	border-bottom:1px solid #04569c;	
+}
+
+.RadGrid_SkyBlue tfoot .rgCommandRow td
+{
+	border-top:1px solid #04569c;
+}
+
+.RadGrid_SkyBlue .rgCommandRow td td
+{
+	border:0;
+	padding:3px 5px 5px;
+}
+
+.RadGrid_SkyBlue .rgCommandRow td td td
+{
+	padding:1px;
+}
+
+.RadGrid_SkyBlue .rgCommandRow table
+{
+	border:0;
+}
+
+.RadGrid_SkyBlue .rgCommandRow a
+{
+	color:#fff;
+	text-decoration:none;
+}
+
+.RadGrid_SkyBlue .rgAdd
+{
+	margin-right:4px;
+	background-position:0 -1220px;
+}
+
+.RadGrid_SkyBlue .rgRefresh
+{
+	margin-right:4px;
+	background-position:0 -1124px;
+}
+
+.RadGrid_SkyBlue .rgEdit
+{
+	background-position:0 -1155px;
+}
+
+.RadGrid_SkyBlue .rgDel
+{
+	background-position:0 -1188px;
+}
+
+/*multirow select*/
+
+.GridRowSelector_SkyBlue
+{
+	background:#04569c;
+}
+
+/*row drag n drop*/
+
+.GridItemDropIndicator_SkyBlue
+{
+    border-top:1px dashed #04569c;
+}
+
+/*tooltip*/
+
+.GridToolTip_SkyBlue
+{
+	border:1px solid #52a0e2;
+	padding:3px;
+	background:#e2f7ff;
+	color:#333;
+}
+
+/*rtl*/
+
+.RadGridRTL_SkyBlue .rgHeader,
+.RadGridRTL_SkyBlue th.rgResizeCol
+{
+	text-align:right;
+}
+
+.RadGridRTL_SkyBlue .rgWrap
+{
+	float:right;
+}
+
+.RadGridRTL_SkyBlue .rgInfoPart
+{
+	float:left;
+}
+
+.RadGridRTL_SkyBlue .rgNumPart
+{
+	width:220px;
+}
+
+.RadGridRTL_SkyBlue .rgNumPart a
+{
+	float:right;
+}

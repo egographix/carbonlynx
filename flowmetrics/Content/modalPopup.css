@@ -1,0 +1,11 @@
+body {
+background-color:#AEBC21;
+border-width:3px;
+border-style:solid;
+border-color:Gray;
+padding:3px;
+width:250px;
+position:absolute;
+visibility:hidden;
+}
+
