@@ -1,0 +1,249 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="schneidermills.com" resolutions="1x,2x" timestamp="1589574910578">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="54669907" ref="about-us:opportunities:what-we-do:index:mission:contact"/>
+    <file name="about-us.css" crc="3976639781" ref="about-us"/>
+    <file name="opportunities.css" crc="3894413461" ref="opportunities"/>
+    <file name="what-we-do.css" crc="124249545" ref="what-we-do"/>
+    <file name="index.css" crc="337766093" ref="index"/>
+    <file name="mission.css" crc="3936685637" ref="mission"/>
+    <file name="contact.css" crc="391697241" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="capabilities.m4v" crc="27211991" seo="true" mt="1433359046000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:mission:what-we-do:contact:opportunities"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-us:mission:what-we-do:contact:opportunities"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:mission:what-we-do:contact:opportunities"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-us:mission:what-we-do:contact:opportunities"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-us:mission:what-we-do:contact:opportunities"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:about-us:mission:what-we-do:contact:opportunities"/>
+    <file name="webpro.js" crc="3856315280" ref="contact"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u570.php" crc="3941788205" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="schneider_looms_modified.jpg" crc="4192318399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="centennialsealcolor2revisedblue.png" crc="4245108926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="centennialsealcolor2revisedblue_2x.png" crc="238357831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_frontdoor.jpg" crc="317069755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_frontdoor_2x.jpg" crc="389891380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="militaryfamily.jpg" crc="524637126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="militaryfamily_2x.jpg" crc="4227561614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="explore_btn.png" crc="446287295" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="explore_btn_2x.png" crc="16006417" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="explore_btn-click here to explore.png" crc="246726050" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="explore_btn-click here to explore_2x.png" crc="223353346" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding.jpg" crc="4282363246" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="momandson.jpg" crc="282164013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="momandson_2x.jpg" crc="4204308443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grandcamping.jpg" crc="122832996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grandcamping_2x.jpg" crc="3952181411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_weave.jpg" crc="176464217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_weave_2x.jpg" crc="3963930691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_looms.jpg" crc="4189493179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_looms_2x.jpg" crc="4223003516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_emp_inspect.jpg" crc="316277885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_emp_inspect_2x.jpg" crc="208455278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_emp_tie.jpg" crc="3928073787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_emp_tie_2x.jpg" crc="453971493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_taylorsville.jpg" crc="349924845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_taylorsville_2x.jpg" crc="190392007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_warp.jpg" crc="4132752406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_warp_2x.jpg" crc="475770344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="air_bags.jpg" crc="4216516001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="air_bags_2x.jpg" crc="3765221440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_yarn.jpg" crc="3883209616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schneider_yarn_2x.jpg" crc="467593004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skydiving.jpg" crc="3941677250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skydiving_2x.jpg" crc="264195181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosite.jpg" crc="218531741" seo="true" ref="index:about-us:mission:what-we-do:contact:opportunities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="opportunities" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="iso_cert.png" crc="175391911" seo="true" ref="index:about-us:mission:what-we-do:contact:opportunities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="opportunities" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="iso_cert_2x.png" crc="4135003245" seo="true" ref="index:about-us:mission:what-we-do:contact:opportunities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="what-we-do" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="opportunities" alt=""/>
+      <caption webpage="mission" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="schneider_beg_blue.jpg" crc="129101656" seo="true" ref="about-us:mission">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="sol.jpg" crc="4072494396" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="sol_2x.jpg" crc="42019367" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="schneider_fifties_blue.jpg" crc="4239096829" seo="true" ref="about-us:mission">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="isandal.png" crc="4005786067" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="isandal_2x.png" crc="15923921" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="cfa_logo.jpg" crc="421274619" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="schneider_loom_overhead_blue.jpg" crc="211533635" seo="true" ref="about-us:mission">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="schneider_loom_overhead_blue_2x.jpg" crc="471261615" seo="true" ref="about-us:mission">
+      <caption webpage="mission" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="schneider0317.jpg" crc="4255703842" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="schneider0317_2x.jpg" crc="136339330" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="one.png" crc="115200664" seo="true" ref="mission">
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="one_2x.png" crc="385511164" seo="true" ref="mission">
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="two.png" crc="374092145" seo="true" ref="mission">
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="two_2x.png" crc="165451846" seo="true" ref="mission">
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="three.png" crc="4016629051" seo="true" ref="mission">
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="three_2x.png" crc="279649641" seo="true" ref="mission">
+      <caption webpage="mission" alt=""/>
+    </file>
+    <file name="grass_foreground.png" crc="474446053" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="soccerplayer.png" crc="66116967" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="hikers.jpg" crc="3787476611" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="hikers_2x.jpg" crc="156044959" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="firefighter.jpg" crc="404909334" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="firefighter_2x.jpg" crc="127406807" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="camping.jpg" crc="4141575870" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="camping_2x.jpg" crc="453973004" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="mountaintop.jpg" crc="3758138503" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt=""/>
+    </file>
+    <file name="hiking.jpg" crc="4133660919" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4012120256" seo="true" mt="1589574905860" redirect="true"/>
+  <file name="about-us.html" crc="369339683" seo="true" mt="1589574835126" redirect="true"/>
+  <file name="mission.html" crc="16929598" seo="true" mt="1589574835126" redirect="true"/>
+  <file name="what-we-do.html" crc="3855647696" seo="true" mt="1589574835126" redirect="true"/>
+  <file name="contact.html" crc="267752128" seo="true" mt="1589574835126" redirect="true"/>
+  <file name="opportunities.html" crc="146602176" seo="true" mt="1589574835126" redirect="true"/>
+</manifest>
