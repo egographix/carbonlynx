@@ -1,0 +1,15 @@
+.body 
+         {
+         }
+.container
+         {
+            background-color: black;
+            border: medium solid #808080;
+            border-color:red;
+            padding: 10px;
+            margin: 20px;
+            width: 1000px;
+            border-top-left-radius: 12px;
+            border-bottom-right-radius: 12px;
+        }
+
